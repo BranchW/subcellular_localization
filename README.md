@@ -30,3 +30,4 @@ THEANO_FLAGS=device=gpu0,dnn.conv.algo_fwd=time_once,dnn.conv.algo_bwd_filter=ti
 Ole Winther, DTU Compute	
 Henrik Nielsen, DTU Bioinformatics	
 Søren and Casper Kaae Sønderby, University of Copenhagen
+Thank you!
